@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#listContainer {
+  margin-top: 20px;
+}
